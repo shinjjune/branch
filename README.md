@@ -137,3 +137,8 @@ git branch -d side
 2. Git & Github 추가내용 정리
  - 생활코딩 등 외부 소스 활용
 3. Git Branching 실습 https://learngitbranching.js.org/?locale=ko
+
+
+branch???
+
+![branch](https://user-images.githubusercontent.com/47058441/63921922-a71e9480-ca7e-11e9-95ef-da88b491677a.JPG)
