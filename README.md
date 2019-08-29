@@ -130,3 +130,10 @@ git checkout -b member
 branch 지우는 법
 
 git branch -d side
+
+
+[1일차 실습과제]
+1. Git 학습내용 마크다운 정리
+2. Git & Github 추가내용 정리
+ - 생활코딩 등 외부 소스 활용
+3. Git Branching 실습 https://learngitbranching.js.org/?locale=ko
