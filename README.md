@@ -103,7 +103,7 @@ create pull request
 
 ### git branch
 
-->  실전에서 하게될 협업 flow
+->  실전에서 하게될 협업 Flow
 
 branching
 
@@ -117,18 +117,18 @@ branch/index.html
 
 
 
-##### emmet
+##### emmet:코드 야매, 효과적으로 구성
 
+#### 해당 hash 로 이동
 checkout #hash
 
-
-
+#### branch 병합
 git merge side
 
+#### branch 만들고 동시에 이동
 git checkout -b member
 
-branch 지우는 법
-
+#### branch 지우는 법
 git branch -d side
 
 
@@ -139,6 +139,6 @@ git branch -d side
 3. Git Branching 실습 https://learngitbranching.js.org/?locale=ko
 
 
-branch???
+#### branch???
 
 ![branch](https://user-images.githubusercontent.com/47058441/63921922-a71e9480-ca7e-11e9-95ef-da88b491677a.JPG)
