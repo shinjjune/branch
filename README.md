@@ -1,7 +1,7 @@
 
 ## git 특강(2019_08_29)
 
-#### git을 통한 협업하기 (push/pull)
+
 
 ##### index
 ```
@@ -12,6 +12,7 @@
 5. git push origin master
 https://shinjjune.github.io/movie_app_2019/
 ```
+#### git을 통한 협업하기 (push/pull)
 
 - git bash
 
