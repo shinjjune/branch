@@ -3,6 +3,16 @@
 
 #### git을 통한 협업하기 (push/pull)
 
+##### index
+```
+1. git init
+2. git remote add origin https://github.com/shinjjune/movie_app_2019
+3. git add .
+4. git commit -m "#1.0 Creating your first React App"
+5. git push origin master
+https://shinjjune.github.io/movie_app_2019/
+```
+
 - git bash
 
 ```
