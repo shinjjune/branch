@@ -10,8 +10,20 @@
 3. git add .
 4. git commit -m "#1.0 Creating your first React App"
 5. git push origin master
-https://shinjjune.github.io/movie_app_2019/
 ```
+
+```
+git에 이중폴더 올라갔을 경우 (회색폴더 둘)
+1. git status
+deleted : ES6 <- 이중 파일
+2. git rm ES6
+3. git commit -m "delete"
+4. giit push
+
+끝!!!
+```
+
+
 #### git을 통한 협업하기 (push/pull)
 
 - git bash
